@@ -1,0 +1,3 @@
+[submodule "fusionote-satelite"]
+	path = fusionote-satelite
+	url = git@github.com:pbrilius/fusionote-satelite.git
